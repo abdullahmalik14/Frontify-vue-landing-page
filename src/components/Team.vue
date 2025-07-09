@@ -33,16 +33,13 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "https://www.linkedin.com/in/abdullah-asim-264ab0227/",
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/abdullahmalik14",
       },
-      {
-        name: "X",
-        url: "https://x.com/leo_mirand4",
-      },
+      
     ],
   },
   {
@@ -54,12 +51,9 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "https://www.linkedin.com/in/abdullah-asim-264ab0227/",
       },
-      {
-        name: "X",
-        url: "https://x.com/leo_mirand4",
-      },
+      
     ],
   },
   {
@@ -71,11 +65,11 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "https://www.linkedin.com/in/abdullah-asim-264ab0227/",
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/abdullahmalik14",
       },
     ],
   },
@@ -88,16 +82,13 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "https://www.linkedin.com/in/abdullah-asim-264ab0227/",
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/abdullahmalik14",
       },
-      {
-        name: "X",
-        url: "https://x.com/leo_mirand4",
-      },
+      
     ],
   },
   {
@@ -109,7 +100,7 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "https://www.linkedin.com/in/abdullah-asim-264ab0227/",
       },
     ],
   },
@@ -122,11 +113,11 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "https://www.linkedin.com/in/abdullah-asim-264ab0227/",
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/abdullahmalik14",
       },
     ],
   },
@@ -139,16 +130,13 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "https://www.linkedin.com/in/abdullah-asim-264ab0227/",
       },
       {
         name: "Github",
-        url: "https://github.com/leoMirandaa",
+        url: "https://github.com/abdullahmalik14",
       },
-      {
-        name: "X",
-        url: "https://x.com/leo_mirand4",
-      },
+     
     ],
   },
   {
@@ -159,8 +147,8 @@ const teamList: TeamProps[] = [
     positions: ["Fullstack developer", "UX Researcher"],
     socialNetworks: [
       {
-        name: "X",
-        url: "https://x.com/leo_mirand4",
+        name: "Github",
+        url: "https://github.com/abdullahmalik14",
       },
     ],
   },

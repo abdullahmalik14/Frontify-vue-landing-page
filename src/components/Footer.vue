@@ -21,7 +21,7 @@ import Separator from "./ui/separator/Separator.vue";
               class="bg-gradient-to-tr from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white"
             />
 
-            <h3 class="text-2xl">Shadcn-Vue</h3>
+            <h3 class="text-2xl">Frontify</h3>
           </a>
         </div>
 
@@ -152,10 +152,10 @@ import Separator from "./ui/separator/Separator.vue";
           &copy; 2024 Designed and developed by
           <a
             target="_blank"
-            href="https://github.com/leoMirandaa"
+            href="https://github.com/abdullahmalik14"
             className="text-primary transition-all border-primary hover:border-b-2"
           >
-            Leo Miranda
+            Abdullah Asim
           </a>
         </h3>
       </section>

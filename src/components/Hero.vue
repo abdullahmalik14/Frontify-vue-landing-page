@@ -30,7 +30,7 @@ import { ArrowRight } from "lucide-vue-next";
             Experience the
             <span
               class="text-transparent bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text"
-              >Shadcn/Vue
+              >Frontify
             </span>
             landing page
           </h1>
@@ -55,7 +55,7 @@ import { ArrowRight } from "lucide-vue-next";
             class="w-5/6 md:w-1/4 font-bold"
           >
             <a
-              href="https://github.com/leoMirandaa/shadcn-vue-landing-page.git"
+              href="https://github.com/abdullahmalik14/Frontify-vue-landing-page"
               target="_blank"
               >Github respository</a
             >

@@ -69,7 +69,7 @@ const handleSubmit = () => {
               <div class="font-bold">Find Us</div>
             </div>
 
-            <div>742 Evergreen Terrace, Springfield, IL 62704</div>
+            <div>8910 Elmwood Avenue, Brookfield, NY 10021</div>
           </div>
 
           <div>
@@ -78,7 +78,7 @@ const handleSubmit = () => {
               <div class="font-bold">Call Us</div>
             </div>
 
-            <div>+1 (619) 123-4567</div>
+            <div>03113241353</div>
           </div>
 
           <div>
@@ -87,7 +87,7 @@ const handleSubmit = () => {
               <div class="font-bold">Mail Us</div>
             </div>
 
-            <div>leomirandadev@gmail.com</div>
+            <div>mallikabdullahmalik14@gmail.com</div>
           </div>
 
           <div>
@@ -98,7 +98,7 @@ const handleSubmit = () => {
 
             <div>
               <div>Monday - Friday</div>
-              <div>8AM - 4PM</div>
+              <div>10AM - 8PM</div>
             </div>
           </div>
         </div>
@@ -118,7 +118,7 @@ const handleSubmit = () => {
                 <Input
                   id="first-name"
                   type="text"
-                  placeholder="Leopoldo"
+                  placeholder="Abdullah"
                   v-model="contactForm.firstName"
                 />
               </div>
@@ -128,7 +128,7 @@ const handleSubmit = () => {
                 <Input
                   id="last-name"
                   type="text"
-                  placeholder="Miranda"
+                  placeholder="Asim"
                   v-model="contactForm.lastName"
                 />
               </div>
@@ -139,7 +139,7 @@ const handleSubmit = () => {
               <Input
                 id="email"
                 type="email"
-                placeholder="leomirandadev@gmail.com"
+                placeholder="mallikabdullahmalik14@gmail.com"
                 v-model="contactForm.email"
               />
             </div>

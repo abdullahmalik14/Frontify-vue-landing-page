@@ -18,34 +18,35 @@ interface sponsorsProps {
 }
 
 const sponsors: sponsorsProps[] = [
-  {
-    icon: "crown",
-    name: "Acmebrand",
-  },
-  {
-    icon: "vegan",
-    name: "Acmelogo",
-  },
-  {
-    icon: "ghost",
-    name: "Acmesponsor",
-  },
-  {
-    icon: "puzzle",
-    name: "Acmeipsum",
-  },
-  {
-    icon: "squirrel",
-    name: "Acme",
-  },
-  {
-    icon: "cookie",
-    name: "Accmee",
-  },
-  {
-    icon: "drama",
-    name: "Acmetech",
-  },
+{
+  icon: "crown",
+  name: "Brandora",
+},
+{
+  icon: "vegan",
+  name: "LogoNest",
+},
+{
+  icon: "ghost",
+  name: "Sponsoria",
+},
+{
+  icon: "puzzle",
+  name: "Buildix",
+},
+{
+  icon: "squirrel",
+  name: "Quirko",
+},
+{
+  icon: "cookie",
+  name: "Cooklify",
+},
+{
+  icon: "drama",
+  name: "Techora",
+}
+
 ];
 
 const iconMap: Record<
